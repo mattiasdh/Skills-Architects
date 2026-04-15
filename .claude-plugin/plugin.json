@@ -1,0 +1,37 @@
+{
+  "name": "architect-skills",
+  "version": "1.0.0",
+  "description": "18 specialized Claude Code skills for building architecture covering design theory, building programming, concept design, building typology, spatial planning, envelope design, structural systems, MEP services, daylighting, materials, building codes, accessibility, fire safety, acoustics, building-scale sustainability, and construction documentation. References 50+ architects and theorists including Vitruvius, Palladio, Le Corbusier, Mies van der Rohe, Louis Kahn, Tadao Ando, Peter Zumthor, Glenn Murcutt, Rem Koolhaas, Renzo Piano, Kengo Kuma, Francis Kéré, Lacaton & Vassal, and standards from IBC, ASHRAE, ADA, NFPA, Passive House, LEED BD+C, BREEAM, WELL, and more. Includes 7 Python calculators.",
+  "author": {
+    "name": "Abhinav Bhardwaj",
+    "copyright": "Copyright (c) 2026 Abhinav Bhardwaj. All rights reserved."
+  },
+  "license": "MIT",
+  "keywords": [
+    "architecture",
+    "building-design",
+    "spatial-planning",
+    "building-typology",
+    "building-envelope",
+    "structural-systems",
+    "daylighting",
+    "building-codes",
+    "IBC",
+    "accessibility",
+    "ADA",
+    "fire-safety",
+    "acoustics",
+    "LEED",
+    "passive-house",
+    "BREEAM",
+    "building-services",
+    "HVAC",
+    "material-selection",
+    "construction-documentation",
+    "concept-design",
+    "design-theory",
+    "AEC",
+    "BIM",
+    "sustainability"
+  ]
+}
