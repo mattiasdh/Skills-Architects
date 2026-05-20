@@ -467,8 +467,23 @@ Drawing from RIBA Plan of Work 2020 (Stages 0-7), AIA Framework for Design Excel
 
 When the architect-foundations layer activates, route the user's query to the appropriate specialized skill based on the following decision logic.
 
+### 6.0 Geographic Pre-Routing
+
+**Before** routing to topical skills, check for **geographic context** signals:
+- Country name, city name, currency cue, or country-specific code reference (NBC India, ECBC, IBC, Approved Documents, DIN, GB 50016, NCC, SBC, UAE FLS, etc.)
+- If detected --> **load `geographic-foundations` first**, which then loads the relevant `country-<x>` dossier (India, UAE, Saudi Arabia, USA, UK, Germany, Singapore, Japan, China, Australia)
+- The country dossier filters every downstream topical answer through that jurisdiction's clause-level requirements
+- If no geographic signal detected, proceed to topical routing below using IBC + Eurocodes + ASHRAE + ISO defaults
+
+### 6.1 Topical Decision Tree
+
 ```
 START
+|
++-- Geographic context detected?
+|   YES --> [geographic-foundations] --> [country-<x>]
+|           Then continue topical routing FILTERED through that country's lens
+|   NO  --> continue
 |
 +-- Is the query about design theory, philosophy, or architect references?
 |   YES --> [design-theory]
