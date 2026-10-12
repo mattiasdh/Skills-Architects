@@ -1,25 +1,39 @@
 ---
 name: architect-foundations
-description: >
-  Auto-activated foundation layer for the Architect Skills plugin providing practitioner-grade
-  reference across 50+ architects and theorists (Vitruvius through Kere), 100+ quantitative
-  rules of thumb sourced from IBC, ASHRAE 90.1, ADA/ABA, NFPA 101, BS EN 1991-1995,
-  Neufert Architects' Data, and Architectural Graphic Standards. Covers all major building
-  typologies (residential, commercial, institutional, industrial, special), design quality
-  frameworks (RIBA Plan of Work 2020, AIA Framework for Design Excellence, CABE Building
-  for Life 12), sustainability rating systems (LEED BD+C v4.1, BREEAM New Construction 2024,
-  Passive House Classic/Plus/Premium, WELL v2, Living Building Challenge 4.0, Fitwel),
-  fire and life safety codes (NFPA 101, IBC Ch. 7-10, BS 9999, Approved Document B),
-  accessibility standards (ADA 2010, BS 8300, EN 17210, DDA), acoustic performance
-  (ASTM E90 STC, ASTM E492 IIC, BB93, DIN 4109), structural systems, envelope performance,
-  daylighting metrics, and an anti-pattern catalog of common design failures. Routes to
-  17 specialized downstream skills based on user query context.
+description: >-
+  Auto-activated foundation layer for the Architect Skills plugin: practitioner-grade reference
+  across 50+ architects and theorists, 100+ quantitative rules of thumb (IBC, ASHRAE 90.1,
+  ADA/ABA, NFPA 101, BS EN 1991-1995, Neufert, Architectural Graphic Standards), all major
+  building typologies, design quality frameworks (RIBA Plan of Work 2020, AIA, CABE Building for
+  Life 12), sustainability ratings (LEED, BREEAM, Passive House, WELL, Living Building Challenge,
+  Fitwel), fire, accessibility and acoustic standards, structural, envelope and daylighting
+  metrics, and an anti-pattern catalog of design failures. Routes to 17 specialized downstream
+  skills by query context.
 user-invocable: false
 ---
 
 # Architect Foundations
 
 Auto-activated knowledge layer. Every response involving building architecture draws from this reference base before routing to specialized skills.
+
+---
+
+## Full scope
+
+Complete scope statement, kept in full here when the frontmatter description was shortened to the 1024-character limit:
+
+Auto-activated foundation layer for the Architect Skills plugin providing practitioner-grade
+reference across 50+ architects and theorists (Vitruvius through Kere), 100+ quantitative rules of
+thumb sourced from IBC, ASHRAE 90.1, ADA/ABA, NFPA 101, BS EN 1991-1995, Neufert Architects' Data,
+and Architectural Graphic Standards. Covers all major building typologies (residential, commercial,
+institutional, industrial, special), design quality frameworks (RIBA Plan of Work 2020, AIA
+Framework for Design Excellence, CABE Building for Life 12), sustainability rating systems (LEED
+BD+C v4.1, BREEAM New Construction 2024, Passive House Classic/Plus/Premium, WELL v2, Living
+Building Challenge 4.0, Fitwel), fire and life safety codes (NFPA 101, IBC Ch. 7-10, BS 9999,
+Approved Document B), accessibility standards (ADA 2010, BS 8300, EN 17210, DDA), acoustic
+performance (ASTM E90 STC, ASTM E492 IIC, BB93, DIN 4109), structural systems, envelope performance,
+daylighting metrics, and an anti-pattern catalog of common design failures. Routes to 17 specialized
+downstream skills based on user query context.
 
 ---
 

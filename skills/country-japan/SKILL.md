@@ -1,27 +1,40 @@
 ---
 name: country-japan
-description: >
-  Japan architectural code and regulatory reference. Covers the Building Standards Act
-  (Kenchiku Kijun Ho, 1950, fundamentally revised 1998 toward performance-based regulation
-  and 2007 strengthening post-Aneha incident), Building Standards Law Enforcement Order
-  (Kenchiku Kijun Ho Shiko Rei) and MLIT Notifications (Kokuji); the parallel Fire Service
-  Act and Fire Service Law Enforcement Order administered by Fire Department (Shobosho);
-  Energy Conservation Act 1979 superseded by Act on the Improvement of Energy Consumption
-  Performance of Buildings (Kenchikubutsu Sho-Energy Ho) 2015 + amendment 2022; Heart Building
-  Law 2006 (Barrier-Free Law) and JIS S 0026 accessibility standards; City Planning Act with
-  12 use districts and ratio-based regulation (Yoseki-ritsu volumetric, Kenpei-ritsu coverage,
-  daylighting + setback ratios); the unique two-level seismic design philosophy (Level 1
-  475-year + Level 2 2475-year), 1981 New Seismic Standard (Shintaishin), Energy Absorption
-  Member design + base isolation + damper systems; AIJ Recommendations for Loads on Buildings
-  2015; CASBEE (Comprehensive Assessment System for Built Environment Efficiency); BCJ
-  (Building Center of Japan) structural performance evaluation; Architect Law and Class 1/2/
-  Mokuzo (timber) architect designations; Land + Building Lease Act; and the prefecture +
-  Designated City (Seirei Shitei Toshi) + Core City (Chukaku Shi) administrative tiers.
+description: >-
+  Japan architectural code and regulatory reference. Covers the Building Standards Act (1950,
+  revised 1998 and 2007), its Enforcement Order and MLIT Notifications, the Fire Service Act, the
+  Building Energy Efficiency Act (Sho-Energy Ho 2015, amended 2022), the Heart Building Law 2006
+  and JIS S 0026, City Planning Act use districts with floor-area, coverage, daylighting and
+  setback ratios, two-level seismic design (Level 1 and Level 2), the 1981 New Seismic Standard,
+  base isolation and dampers, AIJ load recommendations 2015, CASBEE, BCJ evaluation, architect
+  licence classes, and prefecture, designated-city and core-city administrative tiers.
 ---
 
 # Country: Japan
 
 Architectural code and regulatory reference for projects in Japan (all 47 prefectures + Tokyo Metropolis). Activate this skill on any Japanese city/prefecture reference, JPY currency, mention of "Kenchiku Kijun Ho"/"BSL"/"Sho-Energy Ho"/"CASBEE"/"AIJ"/"BCJ"/"Shintaishin", or Japanese architectural terminology (yoseki-ritsu, kenpei-ritsu, kakunin-shinsei, kanseikensa, joryoku-do, koshou-tatemono, mokuzo).
+
+---
+
+## Full scope
+
+Complete scope statement, kept in full here when the frontmatter description was shortened to the 1024-character limit:
+
+Japan architectural code and regulatory reference. Covers the Building Standards Act (Kenchiku Kijun
+Ho, 1950, fundamentally revised 1998 toward performance-based regulation and 2007 strengthening
+post-Aneha incident), Building Standards Law Enforcement Order (Kenchiku Kijun Ho Shiko Rei) and
+MLIT Notifications (Kokuji); the parallel Fire Service Act and Fire Service Law Enforcement Order
+administered by Fire Department (Shobosho); Energy Conservation Act 1979 superseded by Act on the
+Improvement of Energy Consumption Performance of Buildings (Kenchikubutsu Sho-Energy Ho) 2015 +
+amendment 2022; Heart Building Law 2006 (Barrier-Free Law) and JIS S 0026 accessibility standards;
+City Planning Act with 12 use districts and ratio-based regulation (Yoseki-ritsu volumetric,
+Kenpei-ritsu coverage, daylighting + setback ratios); the unique two-level seismic design philosophy
+(Level 1 475-year + Level 2 2475-year), 1981 New Seismic Standard (Shintaishin), Energy Absorption
+Member design + base isolation + damper systems; AIJ Recommendations for Loads on Buildings 2015;
+CASBEE (Comprehensive Assessment System for Built Environment Efficiency); BCJ (Building Center of
+Japan) structural performance evaluation; Architect Law and Class 1/2/ Mokuzo (timber) architect
+designations; Land + Building Lease Act; and the prefecture + Designated City (Seirei Shitei Toshi)
++ Core City (Chukaku Shi) administrative tiers.
 
 ---
 

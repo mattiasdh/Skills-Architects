@@ -1,24 +1,39 @@
 ---
 name: country-india
-description: >
-  India-specific architectural code and regulatory reference. Covers the National Building Code
-  of India (NBC 2016), Energy Conservation Building Code (ECBC 2017) and ECBC for Residential
-  Buildings (ECBC-R 2018, also called Eco-Niwas Samhita), Indian Standards for structural
-  design (IS 456:2000 concrete, IS 800:2007 steel, IS 875 Parts 1-5 loads, IS 1893:2016 seismic,
-  IS 13920:2016 ductile detailing, IS 1904 foundations), the Rights of Persons with Disabilities
-  Act 2016 and Harmonised Guidelines & Space Standards for Universal Accessibility 2021 (MoHUA),
-  state-level Development Control Regulations (Mumbai DCPR 2034, Delhi MPD 2041, Bangalore BBMP,
-  Chennai CMDA, Hyderabad GHMC, Kolkata KMC, Pune PMC, Ahmedabad AUDA), municipal building
-  bye-laws, GRIHA and IGBC green rating systems, RERA (Real Estate Regulatory Authority) under
-  the RERA Act 2016, fire safety per NBC Part 4 and state fire services rules, and the
-  approval workflow involving Municipal Corporations, Development Authorities, State Fire
-  Services NOC, and aviation/environmental clearances. Practitioner-grade clause-level
-  reference for design teams working on projects in any Indian state or Union Territory.
+description: >-
+  India architectural code and regulatory reference. Covers the National Building Code (NBC 2016),
+  ECBC 2017 and ECBC-R 2018 (Eco-Niwas Samhita), Indian Standards (IS 456 concrete, IS 800 steel,
+  IS 875 loads, IS 1893:2016 seismic, IS 13920 ductile detailing), the RPwD Act 2016 and 2021
+  MoHUA accessibility guidelines, state Development Control Regulations (Mumbai, Delhi, Bangalore,
+  Chennai, Hyderabad, Kolkata, Pune, Ahmedabad), municipal bye-laws, GRIHA and IGBC, RERA 2016,
+  NBC Part 4 fire safety, and the approval workflow across municipal corporations, development
+  authorities, fire NOC and clearances. Clause-level reference for any Indian state or Union
+  Territory.
 ---
 
 # Country: India
 
 Architectural code and regulatory reference for projects located in any Indian state or Union Territory. Activate this skill whenever the project location is in India, when an Indian city is referenced, when Indian rupee currency or area-units like "square feet built-up" / "carpet area" / "lakh" / "crore" appear, or when codes like NBC, ECBC, or IS series are mentioned.
+
+---
+
+## Full scope
+
+Complete scope statement, kept in full here when the frontmatter description was shortened to the 1024-character limit:
+
+India-specific architectural code and regulatory reference. Covers the National Building Code of
+India (NBC 2016), Energy Conservation Building Code (ECBC 2017) and ECBC for Residential Buildings
+(ECBC-R 2018, also called Eco-Niwas Samhita), Indian Standards for structural design (IS 456:2000
+concrete, IS 800:2007 steel, IS 875 Parts 1-5 loads, IS 1893:2016 seismic, IS 13920:2016 ductile
+detailing, IS 1904 foundations), the Rights of Persons with Disabilities Act 2016 and Harmonised
+Guidelines & Space Standards for Universal Accessibility 2021 (MoHUA), state-level Development
+Control Regulations (Mumbai DCPR 2034, Delhi MPD 2041, Bangalore BBMP, Chennai CMDA, Hyderabad GHMC,
+Kolkata KMC, Pune PMC, Ahmedabad AUDA), municipal building bye-laws, GRIHA and IGBC green rating
+systems, RERA (Real Estate Regulatory Authority) under the RERA Act 2016, fire safety per NBC Part 4
+and state fire services rules, and the approval workflow involving Municipal Corporations,
+Development Authorities, State Fire Services NOC, and aviation/environmental clearances.
+Practitioner-grade clause-level reference for design teams working on projects in any Indian state
+or Union Territory.
 
 ---
 

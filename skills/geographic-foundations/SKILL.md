@@ -1,24 +1,39 @@
 ---
 name: geographic-foundations
-description: >
-  Auto-activated geographic context router for the Architect Skills plugin. Detects the country
-  or jurisdiction of any architectural query and routes to the correct country-specific dossier
-  (India, UAE, Saudi Arabia, USA, UK, Germany, Singapore, Japan, China, Australia). Encodes the
-  global regulatory landscape: which authority issues which code, the hierarchy between
-  national/state/municipal regulation, code adoption status by version year, the dominant
-  energy/seismic/fire/accessibility codes per jurisdiction, and the cross-walk between national
-  codes and the international reference systems (IBC, NFPA, Eurocodes, ISO, ASCE). Maintains a
-  precise inventory of which country uses which Eurocode National Annex, which states/emirates/
-  Lander/prefectures publish their own modifications, and where international standards apply
-  by reference. Triggers country-specific skills when geographic context is detected in user
-  query (city name, project location, language cues, code reference) and supplies global
-  framework comparisons when no specific jurisdiction is declared.
+description: >-
+  Auto-activated geographic router for the Architect Skills plugin. Detects the country or
+  jurisdiction of an architectural query (city, project location, language cues, code reference)
+  and routes to the matching country dossier: India, UAE, Saudi Arabia, USA, UK, Germany,
+  Singapore, Japan, China, Australia. Encodes which authority issues which code, the
+  national/state/municipal hierarchy, code adoption by version year, the dominant energy, seismic,
+  fire and accessibility codes per jurisdiction, the cross-walk to IBC, NFPA, Eurocodes, ISO and
+  ASCE, and Eurocode National Annex use. Supplies global framework comparisons when no
+  jurisdiction is declared.
 user-invocable: false
 ---
 
 # Geographic Foundations
 
 Auto-activated layer that detects geographic context and routes architectural queries to the correct country-specific regulatory dossier. Loads before any code, life-safety, structural, or planning analysis.
+
+---
+
+## Full scope
+
+Complete scope statement, kept in full here when the frontmatter description was shortened to the 1024-character limit:
+
+Auto-activated geographic context router for the Architect Skills plugin. Detects the country or
+jurisdiction of any architectural query and routes to the correct country-specific dossier (India,
+UAE, Saudi Arabia, USA, UK, Germany, Singapore, Japan, China, Australia). Encodes the global
+regulatory landscape: which authority issues which code, the hierarchy between
+national/state/municipal regulation, code adoption status by version year, the dominant
+energy/seismic/fire/accessibility codes per jurisdiction, and the cross-walk between national codes
+and the international reference systems (IBC, NFPA, Eurocodes, ISO, ASCE). Maintains a precise
+inventory of which country uses which Eurocode National Annex, which states/emirates/
+Lander/prefectures publish their own modifications, and where international standards apply by
+reference. Triggers country-specific skills when geographic context is detected in user query (city
+name, project location, language cues, code reference) and supplies global framework comparisons
+when no specific jurisdiction is declared.
 
 ---
 

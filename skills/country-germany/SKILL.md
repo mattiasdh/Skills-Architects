@@ -1,26 +1,39 @@
 ---
 name: country-germany
-description: >
+description: >-
   Germany architectural code and regulatory reference. Covers the Musterbauordnung (MBO 2002,
-  last amended 2019) federal model plus the 16 binding Landesbauordnungen (LBO) for each Bundesland
-  (BayBO Bavaria, BauO NRW North Rhine-Westphalia, BauO Bln Berlin, HBauO Hamburg, BauO Bbg
-  Brandenburg, NBauO Lower Saxony, HBO Hesse, BauO LSA Saxony-Anhalt, SaechsBO Saxony, ThuerBO
-  Thuringia, LBauO Rheinland-Pfalz, LBO BW Baden-Wuerttemberg, BauO SH Schleswig-Holstein, BauO
-  M-V Mecklenburg-Vorpommern, LBO Saarland, BauO Bremen), the federal Gebaeudeenergiegesetz
-  GEG 2023, the German Eurocode national annexes (DIN EN 1990-1999/NA), the DIN 18040 series
-  for accessibility (Part 1 public buildings, Part 2 dwellings, Part 3 public space), DIN 4109
-  for sound insulation, DIN 4108 thermal insulation, DIN 4102/EN 13501 for fire classification,
-  Musterhochhausrichtlinie + Sonderbauordnungen for special buildings, Versammlungsstaettenverordnung
-  for assembly buildings, Industriebaurichtlinie for industrial, KrPflVO/HHRRL for hospitals,
-  Brandschutznachweis methodology, BAFA/KfW incentive certification schemes, DGNB certification,
-  Effizienzhaus 40/55/70 standards, Heizungsgesetz 2024 (Heizung Replacement Act),
-  Bauwerksbuch (building documentation), TGA/HKLS engineering disciplines, and the BIM
-  Deutschland federal mandate timeline.
+  amended 2019) and the 16 Landesbauordnungen, the Gebaeudeenergiegesetz GEG 2023, Eurocode
+  national annexes (DIN EN 1990-1999/NA), DIN 18040 accessibility, DIN 4109 sound, DIN 4108
+  thermal, DIN 4102/EN 13501 fire classification, special-building rules (Hochhaus,
+  Versammlungsstaetten, Industriebau, hospitals), Brandschutznachweis, BAFA/KfW incentives, DGNB,
+  Effizienzhaus 40/55/70, Heizungsgesetz 2024, Bauwerksbuch, TGA/HKLS disciplines, and the BIM
+  Deutschland mandate timeline.
 ---
 
 # Country: Germany
 
 Architectural code and regulatory reference for projects in any of the 16 German Bundeslaender (Federal States). Activate this skill on any German city reference, EUR currency in German context, mention of "DIN"/"LBO"/"GEG"/"MBO"/"BayBO"/"Energieausweis"/"Brandschutznachweis"/"Effizienzhaus"/"DGNB"/"KfW"/"BauO", or German technical terminology (Geschossflaechenzahl, Grundflaechenzahl, Vollgeschoss, Bauantrag, Bauvoranfrage, Rohbau).
+
+---
+
+## Full scope
+
+Complete scope statement, kept in full here when the frontmatter description was shortened to the 1024-character limit:
+
+Germany architectural code and regulatory reference. Covers the Musterbauordnung (MBO 2002, last
+amended 2019) federal model plus the 16 binding Landesbauordnungen (LBO) for each Bundesland (BayBO
+Bavaria, BauO NRW North Rhine-Westphalia, BauO Bln Berlin, HBauO Hamburg, BauO Bbg Brandenburg,
+NBauO Lower Saxony, HBO Hesse, BauO LSA Saxony-Anhalt, SaechsBO Saxony, ThuerBO Thuringia, LBauO
+Rheinland-Pfalz, LBO BW Baden-Wuerttemberg, BauO SH Schleswig-Holstein, BauO M-V
+Mecklenburg-Vorpommern, LBO Saarland, BauO Bremen), the federal Gebaeudeenergiegesetz GEG 2023, the
+German Eurocode national annexes (DIN EN 1990-1999/NA), the DIN 18040 series for accessibility (Part
+1 public buildings, Part 2 dwellings, Part 3 public space), DIN 4109 for sound insulation, DIN 4108
+thermal insulation, DIN 4102/EN 13501 for fire classification, Musterhochhausrichtlinie +
+Sonderbauordnungen for special buildings, Versammlungsstaettenverordnung for assembly buildings,
+Industriebaurichtlinie for industrial, KrPflVO/HHRRL for hospitals, Brandschutznachweis methodology,
+BAFA/KfW incentive certification schemes, DGNB certification, Effizienzhaus 40/55/70 standards,
+Heizungsgesetz 2024 (Heizung Replacement Act), Bauwerksbuch (building documentation), TGA/HKLS
+engineering disciplines, and the BIM Deutschland federal mandate timeline.
 
 ---
 

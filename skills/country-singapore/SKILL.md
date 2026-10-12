@@ -1,25 +1,39 @@
 ---
 name: country-singapore
-description: >
-  Singapore architectural code and regulatory reference. Covers the Building Control Act 1989
-  (BCA) and Building Control Regulations 2003 (with periodic amendments through 2024), the
-  Singapore Civil Defence Force (SCDF) Fire Code 2018 (Fire Safety Act 1993 + Fire Safety
-  (Building Fire Safety) Regulations), the URA (Urban Redevelopment Authority) Planning Act
-  with Master Plan 2019 and Development Control Handbooks, BCA Green Mark scheme 2021 with
-  mandatory Green Mark Certified Building requirement for all new buildings since 2008, BCA
-  Code on Accessibility 2019 (3rd revision; Universal Design Mark), Code on Environmental
-  Sustainability of Buildings 2018, Singapore Standards SS 530 energy efficiency, SS 553
-  air-conditioning, SS 568 natural lighting, SS 593 acoustic, SS 632 emergency power, plus
-  Singapore-adopted Eurocodes (SS EN suite with Singapore National Annexes), Code of Practice
-  on Buildability (BCA), Code on Buildable Design and Constructability, Workplace Safety and
-  Health Act, NEA noise regulations, PUB water/drainage codes, and the Land Transport
-  Authority's Code of Practice on Vehicle Parking. Includes HDB (public housing) standards
-  and the developer-led private residential design quality protocols.
+description: >-
+  Singapore architectural code and regulatory reference. Covers the Building Control Act 1989 and
+  Regulations 2003, the SCDF Fire Code 2018 and Fire Safety Act 1993, the URA Planning Act with
+  Master Plan 2019 and Development Control Handbooks, BCA Green Mark 2021 (mandatory for new
+  buildings since 2008), the Code on Accessibility 2019 and Universal Design Mark, the Code on
+  Environmental Sustainability of Buildings 2018, Singapore Standards (SS 530, 553, 568, 593,
+  632), SS EN Eurocodes with National Annexes, BCA buildability codes, Workplace Safety and Health
+  Act, NEA noise, PUB water codes, LTA parking code, and HDB and private residential quality
+  protocols.
 ---
 
 # Country: Singapore
 
 Architectural code and regulatory reference for projects within the Republic of Singapore. Activate this skill on any reference to Singapore, SGD currency, mention of "BCA" (Building & Construction Authority), "URA", "SCDF", "Green Mark", "HDB", "PUB", "LTA", Singapore Standards (SS), or local Singapore terminology (shophouse, conservation area, GFA, plot ratio).
+
+---
+
+## Full scope
+
+Complete scope statement, kept in full here when the frontmatter description was shortened to the 1024-character limit:
+
+Singapore architectural code and regulatory reference. Covers the Building Control Act 1989 (BCA)
+and Building Control Regulations 2003 (with periodic amendments through 2024), the Singapore Civil
+Defence Force (SCDF) Fire Code 2018 (Fire Safety Act 1993 + Fire Safety (Building Fire Safety)
+Regulations), the URA (Urban Redevelopment Authority) Planning Act with Master Plan 2019 and
+Development Control Handbooks, BCA Green Mark scheme 2021 with mandatory Green Mark Certified
+Building requirement for all new buildings since 2008, BCA Code on Accessibility 2019 (3rd revision;
+Universal Design Mark), Code on Environmental Sustainability of Buildings 2018, Singapore Standards
+SS 530 energy efficiency, SS 553 air-conditioning, SS 568 natural lighting, SS 593 acoustic, SS 632
+emergency power, plus Singapore-adopted Eurocodes (SS EN suite with Singapore National Annexes),
+Code of Practice on Buildability (BCA), Code on Buildable Design and Constructability, Workplace
+Safety and Health Act, NEA noise regulations, PUB water/drainage codes, and the Land Transport
+Authority's Code of Practice on Vehicle Parking. Includes HDB (public housing) standards and the
+developer-led private residential design quality protocols.
 
 ---
 

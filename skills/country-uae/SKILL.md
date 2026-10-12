@@ -1,25 +1,39 @@
 ---
 name: country-uae
-description: >
-  United Arab Emirates architectural code and regulatory reference. Covers the federal regulatory
-  framework (UAE Fire and Life Safety Code of Practice 2018 by General Civil Defence, Federal
-  Law 29/2006 + 2/2014 + 1/2020 for People of Determination, ESMA standards) plus the seven
-  Emirates' independent codes: Dubai Building Code 2021 (DBC), Dubai Civil Defence regulations,
-  Trakhees regulations for free zones, Dubai Green Building Regulations & Specifications 2011
-  + Al Sa'fat 2016, Dubai Universal Design Code 2017; Abu Dhabi International Building Code
-  2013 (ADIBC, IBC-derived), Estidama Pearl Building Rating System 2010, DMA Accessibility
-  Code; Sharjah Department of Planning and Survey rules; northern emirates' deferral patterns
-  to Abu Dhabi or Dubai codes. Includes climate zone hot-arid design overlays, sandstorm/
-  thermal expansion loads, ADM/DM approval workflows, RERA Dubai project registration,
-  developer-master-developer-end-customer hierarchies (Emaar, Aldar, Nakheel masterplan
-  compliance), DEWA/ADDC utility coordination, and the cross-walk between IBC, ASCE 7, NFPA,
-  and UAE national amendments. Practitioner-grade clause-level reference for design teams
-  working in any of the seven Emirates.
+description: >-
+  United Arab Emirates architectural code and regulatory reference. Covers the federal framework
+  (UAE Fire and Life Safety Code 2018, Federal Law 29/2006 on People of Determination, ESMA) and
+  the emirate codes: Dubai Building Code 2021, Dubai Civil Defence, Trakhees free zones, Al Sa'fat
+  2016, Dubai Universal Design Code 2017; Abu Dhabi International Building Code 2013 (ADIBC),
+  Estidama Pearl rating, DMA Accessibility Code; Sharjah rules and northern-emirate deferrals.
+  Includes hot-arid design overlays, sandstorm and thermal loads, ADM/DM approvals, RERA Dubai
+  registration, master-developer compliance, DEWA/ADDC utilities, and the IBC, ASCE 7 and NFPA
+  cross-walk.
 ---
 
 # Country: United Arab Emirates
 
 Architectural code and regulatory reference for projects in any of the seven Emirates: Abu Dhabi, Dubai, Sharjah, Ajman, Umm Al Quwain, Ras Al Khaimah, Fujairah. Activate this skill on any UAE city reference, AED currency, mention of "Civil Defence", "ADM"/"DM"/"DDA", "Estidama"/"Al Sa'fat"/"Mostadamah", "Trakhees", emirate-specific developer names (Emaar, Aldar, Nakheel, Dubai Holding, Mubadala), or codes DBC/ADIBC/UAE FLS.
+
+---
+
+## Full scope
+
+Complete scope statement, kept in full here when the frontmatter description was shortened to the 1024-character limit:
+
+United Arab Emirates architectural code and regulatory reference. Covers the federal regulatory
+framework (UAE Fire and Life Safety Code of Practice 2018 by General Civil Defence, Federal Law
+29/2006 + 2/2014 + 1/2020 for People of Determination, ESMA standards) plus the seven Emirates'
+independent codes: Dubai Building Code 2021 (DBC), Dubai Civil Defence regulations, Trakhees
+regulations for free zones, Dubai Green Building Regulations & Specifications 2011 + Al Sa'fat 2016,
+Dubai Universal Design Code 2017; Abu Dhabi International Building Code 2013 (ADIBC, IBC-derived),
+Estidama Pearl Building Rating System 2010, DMA Accessibility Code; Sharjah Department of Planning
+and Survey rules; northern emirates' deferral patterns to Abu Dhabi or Dubai codes. Includes climate
+zone hot-arid design overlays, sandstorm/ thermal expansion loads, ADM/DM approval workflows, RERA
+Dubai project registration, developer-master-developer-end-customer hierarchies (Emaar, Aldar,
+Nakheel masterplan compliance), DEWA/ADDC utility coordination, and the cross-walk between IBC, ASCE
+7, NFPA, and UAE national amendments. Practitioner-grade clause-level reference for design teams
+working in any of the seven Emirates.
 
 ---
 

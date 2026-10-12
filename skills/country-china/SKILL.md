@@ -1,22 +1,13 @@
 ---
 name: country-china
-description: >
-  People's Republic of China architectural code and regulatory reference. Covers the GB
-  (Guojia Biaozhun -- National Standard) series of mandatory codes including GB 50352-2019
-  Civil Buildings Unified Design Standard (replaces 2005), GB 50016-2014 (2018 ed.) Fire
-  Protection Design of Buildings, GB 51251-2017 Smoke Control + Prevention, GB 50045 (legacy
-  high-rise fire), GB 50011-2010 Seismic Design (with 2016 amendments), GB 50009-2012 Building
-  Structural Loads, GB 55015-2021 General Code for Building Energy + Renewable Energy, GB
-  50189-2015 Public Building Energy Design, JGJ 26-2018 + JGJ 75-2012 + JGJ 134-2010
-  Residential Energy Design (by climate zone), GB 50763-2012 Code for Design Accessibility,
-  GB 50352 civil building, plus the supplementary JGJ (Industry Standard) codes. Includes the
-  five thermal climate zones per GB 50176-2016 (Severe Cold, Cold, Hot Summer Cold Winter,
-  Hot Summer Warm Winter, Temperate), the eight seismic intensity zones (degree 6-9), the
-  sunlight rights (Rizhao) regulation governing residential setbacks, DB local supplements
-  (DB11 Beijing, DGJ08 Shanghai, DBJ Guangdong + Guangxi etc.), Hong Kong SAR distinct
-  regulation (Buildings Department BD HK BO Cap 123 + PNAPs + ATCs), Macao separately, and
-  the China Sponge City Program, Green Building Label (3-star China Green Building Evaluation
-  Standard), and the Construction Engineering Quality Management Regulations.
+description: >-
+  People's Republic of China architectural code and regulatory reference. Covers the mandatory GB
+  national standards (GB 50352-2019 civil buildings, GB 50016-2014 fire protection, GB 51251 smoke
+  control, GB 50011-2010 seismic, GB 50009 loads, GB 55015-2021 energy, GB 50189 public building
+  energy, GB 50763 accessibility), JGJ residential energy codes by climate zone, the five thermal
+  climate zones (GB 50176-2016), seismic intensity zones 6-9, sunlight rights (Rizhao) setbacks,
+  DB local supplements (Beijing, Shanghai, Guangdong), Hong Kong (Buildings Ordinance Cap 123) and
+  Macao separately, Sponge City, and Green Building Label.
 ---
 
 # Country: People's Republic of China
@@ -24,6 +15,28 @@ description: >
 Architectural code and regulatory reference for projects in mainland China. **Hong Kong SAR** has a distinct regulatory regime briefly summarised at Section 12 (different code system, English language, Common Law tradition). **Macao SAR** also distinct. Taiwan is not covered here.
 
 Activate this skill on any Chinese city reference (Beijing, Shanghai, Guangzhou, Shenzhen, Chengdu, Chongqing, Hangzhou, Nanjing, Tianjin, Wuhan, Xi'an, Suzhou, etc.), CNY/RMB/Yuan currency, mention of "GB 50016"/"GB 50352"/"GB 50011"/"JGJ"/"DB11"/"DGJ08", or Chinese architectural terminology (容积率 yongji-lv, 建筑密度 jianzhu-midu, 日照 rizhao, 抗震 kangzhen, 防火 fanghuo).
+
+---
+
+## Full scope
+
+Complete scope statement, kept in full here when the frontmatter description was shortened to the 1024-character limit:
+
+People's Republic of China architectural code and regulatory reference. Covers the GB (Guojia
+Biaozhun -- National Standard) series of mandatory codes including GB 50352-2019 Civil Buildings
+Unified Design Standard (replaces 2005), GB 50016-2014 (2018 ed.) Fire Protection Design of
+Buildings, GB 51251-2017 Smoke Control + Prevention, GB 50045 (legacy high-rise fire), GB 50011-2010
+Seismic Design (with 2016 amendments), GB 50009-2012 Building Structural Loads, GB 55015-2021
+General Code for Building Energy + Renewable Energy, GB 50189-2015 Public Building Energy Design,
+JGJ 26-2018 + JGJ 75-2012 + JGJ 134-2010 Residential Energy Design (by climate zone), GB 50763-2012
+Code for Design Accessibility, GB 50352 civil building, plus the supplementary JGJ (Industry
+Standard) codes. Includes the five thermal climate zones per GB 50176-2016 (Severe Cold, Cold, Hot
+Summer Cold Winter, Hot Summer Warm Winter, Temperate), the eight seismic intensity zones (degree
+6-9), the sunlight rights (Rizhao) regulation governing residential setbacks, DB local supplements
+(DB11 Beijing, DGJ08 Shanghai, DBJ Guangdong + Guangxi etc.), Hong Kong SAR distinct regulation
+(Buildings Department BD HK BO Cap 123 + PNAPs + ATCs), Macao separately, and the China Sponge City
+Program, Green Building Label (3-star China Green Building Evaluation Standard), and the
+Construction Engineering Quality Management Regulations.
 
 ---
 

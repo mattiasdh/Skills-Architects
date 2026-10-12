@@ -1,24 +1,37 @@
 ---
 name: country-saudi-arabia
-description: >
-  Kingdom of Saudi Arabia architectural code and regulatory reference. Covers the Saudi Building
-  Code (SBC) nine-part series issued by the Saudi Building Code National Committee (SBCNC):
-  SBC 201 General Building, SBC 301 Structural Loads (ASCE 7-derived), SBC 302 Concrete (ACI
-  318-derived), SBC 304 Soil and Foundations, SBC 305 Masonry, SBC 306 Steel (AISC-derived),
-  SBC 401 Electrical, SBC 501 Mechanical, SBC 601 Energy Conservation, SBC 701 Plumbing, SBC
-  801 Fire (NFPA-aligned), SBC 901 Existing Buildings, SBC 1001 Green Buildings. Also covers
-  the General Directorate of Civil Defence regulations, Saudi Universal Accessibility Code,
-  Mostadamah (Saudi Green Building Program), the Vision 2030 giga-projects (NEOM, Qiddiya,
-  Red Sea, Diriyah, ROSHN), Amana (Municipality) approval workflows, Saudi Energy Efficiency
-  Center (SEEC) programs, and Royal Commission jurisdictions (Jubail/Yanbu/AlUla). Includes
-  Mecca/Medina special restrictions (Hajj building regulations), Aramco housing standards
-  reference, and the hot-arid + coastal-humid + highland design overlays for the three
-  national climate zones.
+description: >-
+  Saudi Arabia architectural code and regulatory reference. Covers the Saudi Building Code (SBC)
+  series from SBCNC: SBC 201 general, 301 loads, 302 concrete, 304 foundations, 305 masonry, 306
+  steel, 401 electrical, 501 mechanical, 601 energy, 701 plumbing, 801 fire, 901 existing
+  buildings, 1001 green buildings. Also Civil Defence regulations, the Saudi Universal
+  Accessibility Code, Mostadamah, Vision 2030 giga-projects (NEOM, Qiddiya, Red Sea, Diriyah,
+  ROSHN), Amana approvals, SEEC programs, Royal Commission jurisdictions (Jubail, Yanbu, AlUla),
+  Mecca/Medina restrictions, and design overlays for the three national climate zones.
 ---
 
 # Country: Kingdom of Saudi Arabia
 
 Architectural code and regulatory reference for projects within Saudi Arabia. Activate this skill on any reference to Saudi cities (Riyadh, Jeddah, Mecca, Medina, Dammam, Tabuk, AlUla, NEOM, Khobar, Dhahran), SAR currency, "Amana"/"Baladiya", Royal Commission projects, Mostadamah, SBC codes, or Saudi Civil Defence (Difa'a al-Madani).
+
+---
+
+## Full scope
+
+Complete scope statement, kept in full here when the frontmatter description was shortened to the 1024-character limit:
+
+Kingdom of Saudi Arabia architectural code and regulatory reference. Covers the Saudi Building Code
+(SBC) nine-part series issued by the Saudi Building Code National Committee (SBCNC): SBC 201 General
+Building, SBC 301 Structural Loads (ASCE 7-derived), SBC 302 Concrete (ACI 318-derived), SBC 304
+Soil and Foundations, SBC 305 Masonry, SBC 306 Steel (AISC-derived), SBC 401 Electrical, SBC 501
+Mechanical, SBC 601 Energy Conservation, SBC 701 Plumbing, SBC 801 Fire (NFPA-aligned), SBC 901
+Existing Buildings, SBC 1001 Green Buildings. Also covers the General Directorate of Civil Defence
+regulations, Saudi Universal Accessibility Code, Mostadamah (Saudi Green Building Program), the
+Vision 2030 giga-projects (NEOM, Qiddiya, Red Sea, Diriyah, ROSHN), Amana (Municipality) approval
+workflows, Saudi Energy Efficiency Center (SEEC) programs, and Royal Commission jurisdictions
+(Jubail/Yanbu/AlUla). Includes Mecca/Medina special restrictions (Hajj building regulations), Aramco
+housing standards reference, and the hot-arid + coastal-humid + highland design overlays for the
+three national climate zones.
 
 ---
 

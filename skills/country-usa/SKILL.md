@@ -1,25 +1,38 @@
 ---
 name: country-usa
-description: >
-  United States architectural code and regulatory reference. Covers the International Code
-  Council (ICC) family of model codes adopted across most US jurisdictions (IBC 2024, IRC 2024,
-  IECC 2024, IFC 2024, IMC 2024, IPC 2024, IFGC 2024, IEBC 2024), the National Fire Protection
-  Association suite (NFPA 101 Life Safety Code 2024, NFPA 70 NEC 2023, NFPA 13 sprinklers,
-  NFPA 72 detection, NFPA 285 wall assemblies, NFPA 5000), structural standards (ASCE 7-22
-  loads, ASCE 41-23 existing, ACI 318-19 concrete, AISC 360-22 steel, ANSI/AWC NDS 2024
-  wood, TMS 402/602 masonry), accessibility (ADA 2010 Standards, ANSI A117.1-2017, Fair
-  Housing Act + HUD design manual, ABA Standards), energy (ASHRAE 90.1-2022, ASHRAE 62.1-2022,
-  ASHRAE 55-2020, ENERGY STAR), and the major state amendments (California Title 24 Parts
-  1-12 with Part 6 Energy and Part 11 CalGreen, NYC Building Code 2022 + 1968 grandfathered
-  + 2014 commercial, Florida Building Code 2023, Texas through state-by-jurisdiction adoption,
-  Chicago Construction Codes, Massachusetts 9th Edition, Washington State Energy Code) plus
-  zoning/planning realities (R/C/M zones, FAR, setback, height bonuses, LEED programs,
-  AHJ -- Authority Having Jurisdiction).
+description: >-
+  United States architectural code and regulatory reference. Covers the ICC model codes (IBC, IRC,
+  IECC, IFC, IMC, IPC, IEBC 2024), the NFPA suite (101 Life Safety Code, 70 NEC, 13, 72, 285,
+  5000), structural standards (ASCE 7-22, ASCE 41-23, ACI 318-19, AISC 360-22, NDS 2024, TMS
+  402/602), accessibility (ADA 2010, ANSI A117.1-2017, Fair Housing Act, ABA), energy (ASHRAE
+  90.1, 62.1, 55, ENERGY STAR), major state amendments (California Title 24, NYC, Florida, Texas,
+  Chicago, Massachusetts, Washington), zoning realities (FAR, setbacks, height bonuses), LEED, and
+  AHJ practice.
 ---
 
 # Country: United States of America
 
 Architectural code and regulatory reference for projects within any US state, territory, or D.C. Activate this skill on any US city/state reference, USD currency, square feet / imperial units, mention of "IBC"/"IRC"/"IECC"/"NFPA"/"ASCE 7"/"ADA"/"Title 24"/"CalGreen"/"NYC BC", state building department/AHJ references, or LEED/ENERGY STAR.
+
+---
+
+## Full scope
+
+Complete scope statement, kept in full here when the frontmatter description was shortened to the 1024-character limit:
+
+United States architectural code and regulatory reference. Covers the International Code Council
+(ICC) family of model codes adopted across most US jurisdictions (IBC 2024, IRC 2024, IECC 2024, IFC
+2024, IMC 2024, IPC 2024, IFGC 2024, IEBC 2024), the National Fire Protection Association suite
+(NFPA 101 Life Safety Code 2024, NFPA 70 NEC 2023, NFPA 13 sprinklers, NFPA 72 detection, NFPA 285
+wall assemblies, NFPA 5000), structural standards (ASCE 7-22 loads, ASCE 41-23 existing, ACI 318-19
+concrete, AISC 360-22 steel, ANSI/AWC NDS 2024 wood, TMS 402/602 masonry), accessibility (ADA 2010
+Standards, ANSI A117.1-2017, Fair Housing Act + HUD design manual, ABA Standards), energy (ASHRAE
+90.1-2022, ASHRAE 62.1-2022, ASHRAE 55-2020, ENERGY STAR), and the major state amendments
+(California Title 24 Parts 1-12 with Part 6 Energy and Part 11 CalGreen, NYC Building Code 2022 +
+1968 grandfathered + 2014 commercial, Florida Building Code 2023, Texas through
+state-by-jurisdiction adoption, Chicago Construction Codes, Massachusetts 9th Edition, Washington
+State Energy Code) plus zoning/planning realities (R/C/M zones, FAR, setback, height bonuses, LEED
+programs, AHJ -- Authority Having Jurisdiction).
 
 ---
 

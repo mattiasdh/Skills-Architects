@@ -1,26 +1,39 @@
 ---
 name: country-australia
-description: >
+description: >-
   Australia architectural code and regulatory reference. Covers the National Construction Code
-  2022 (NCC 2022, published by Australian Building Codes Board ABCB) -- Volume One (Class 2-9
-  Building Code of Australia), Volume Two (Class 1 + 10 -- Housing Provisions), Volume Three
-  (Plumbing Code of Australia); Australian Standards including AS/NZS 1170.0-2002 + 1170.1-2002
-  + 1170.2-2021 wind + 1170.3-2003 snow + 1170.4-2007 seismic, AS 3600-2018 concrete, AS
-  4100-2020 steel, AS 1684-2010 residential timber, AS 1170.4 seismic, AS 1530.1/.2/.3/.4/.8
-  fire test methods, AS 4072 service penetration sealing, AS 1428.1-2021 accessibility, AS
-  1428.4 tactile, AS/NZS 4586 slip resistance, AS 1668 ventilation, AS 1680 lighting; the
-  Disability (Access to Premises -- Buildings) Standards 2010 + Disability Discrimination
-  Act 1992; the 7-star NatHERS (Nationwide House Energy Rating Scheme) mandatory for new
-  Class 1 housing from 2022; state-specific overlays (NSW Planning + Environmental Planning
-  Instruments, Victoria Plumbing Regulations, Queensland Sustainable Building Code, WA Building
-  Code, SA Planning + Building Code, ACT + NT); BCA performance + DTS pathways; the BASIX
-  (NSW) sustainability assessment; Green Building Council of Australia Green Star ratings;
-  and the Australian climate zones (8 zones) with cyclonic wind regions (A0, A1-5, B, C, D).
+  2022 (ABCB) Volumes One to Three, Australian Standards (AS/NZS 1170 loads and seismic, AS 3600
+  concrete, AS 4100 steel, AS 1684 timber, AS 1530 fire tests, AS 1428 accessibility, AS 1668
+  ventilation, AS 1680 lighting), the Disability (Access to Premises) Standards 2010 and DDA 1992,
+  7-star NatHERS for new Class 1 housing, state overlays (NSW, VIC, QLD, WA, SA, ACT, NT), BCA
+  performance and DTS pathways, BASIX, Green Star, and the 8 climate zones with cyclonic wind
+  regions.
 ---
 
 # Country: Australia
 
 Architectural code and regulatory reference for projects in any Australian state or territory. Activate this skill on any Australian city/state reference (Sydney, Melbourne, Brisbane, Perth, Adelaide, Canberra, Hobart, Darwin), AUD currency, mention of "NCC"/"BCA"/"AS"/"AS/NZS"/"NatHERS"/"BASIX"/"Premises Standards", Green Star, or state acronyms (NSW, VIC, QLD, WA, SA, TAS, ACT, NT).
+
+---
+
+## Full scope
+
+Complete scope statement, kept in full here when the frontmatter description was shortened to the 1024-character limit:
+
+Australia architectural code and regulatory reference. Covers the National Construction Code 2022
+(NCC 2022, published by Australian Building Codes Board ABCB) -- Volume One (Class 2-9 Building Code
+of Australia), Volume Two (Class 1 + 10 -- Housing Provisions), Volume Three (Plumbing Code of
+Australia); Australian Standards including AS/NZS 1170.0-2002 + 1170.1-2002 + 1170.2-2021 wind +
+1170.3-2003 snow + 1170.4-2007 seismic, AS 3600-2018 concrete, AS 4100-2020 steel, AS 1684-2010
+residential timber, AS 1170.4 seismic, AS 1530.1/.2/.3/.4/.8 fire test methods, AS 4072 service
+penetration sealing, AS 1428.1-2021 accessibility, AS 1428.4 tactile, AS/NZS 4586 slip resistance,
+AS 1668 ventilation, AS 1680 lighting; the Disability (Access to Premises -- Buildings) Standards
+2010 + Disability Discrimination Act 1992; the 7-star NatHERS (Nationwide House Energy Rating
+Scheme) mandatory for new Class 1 housing from 2022; state-specific overlays (NSW Planning +
+Environmental Planning Instruments, Victoria Plumbing Regulations, Queensland Sustainable Building
+Code, WA Building Code, SA Planning + Building Code, ACT + NT); BCA performance + DTS pathways; the
+BASIX (NSW) sustainability assessment; Green Building Council of Australia Green Star ratings; and
+the Australian climate zones (8 zones) with cyclonic wind regions (A0, A1-5, B, C, D).
 
 ---
 

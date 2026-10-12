@@ -1,25 +1,38 @@
 ---
 name: country-uk
-description: >
-  United Kingdom architectural code and regulatory reference. Covers the Building Regulations
-  2010 for England with Approved Documents A through S (current 2010-2025 amendments), the
-  parallel regimes for Wales (Welsh Approved Documents), Scotland (Building (Scotland)
-  Regulations 2004 + Scottish Technical Handbooks), and Northern Ireland (Building Regulations
-  (NI) 2012 + Technical Booklets). Post-Grenfell amendments to AD-B (2018-2023), the Building
-  Safety Act 2022 with Building Safety Regulator (BSR) regime for Higher-Risk Buildings (HRB),
-  Future Homes Standard 2025 and Future Buildings Standard 2025 (next AD-L), British Standards
-  (BS 9991 fire safety dwellings, BS 9999 fire safety non-domestic, BS 8300-1/-2 accessibility,
-  BS 5950 legacy steel, BS EN Eurocodes with UK National Annexes, BS 8500 concrete), London
-  Plan 2021 + Mayor's Energy Hierarchy, Local Plans + NPPF (National Planning Policy Framework
-  2024), LABC vs Approved Inspector, EPC + SAP 10.2 + SBEM, Energy Act 2011 MEES minimum
-  energy efficiency standards, BREEAM, and the post-Grenfell Building Safety regime including
-  Gateway 1-3, Resident Engagement, Golden Thread, Safety Case Report, Mandatory Occurrence
-  Reporting, and the Construction Products regulatory regime.
+description: >-
+  United Kingdom architectural code and regulatory reference. Covers the Building Regulations 2010
+  for England with Approved Documents A to S, the regimes for Wales, Scotland (Building (Scotland)
+  Regulations 2004, Technical Handbooks) and Northern Ireland, post-Grenfell AD-B changes, the
+  Building Safety Act 2022 and Building Safety Regulator for Higher-Risk Buildings (Gateways 1-3,
+  Golden Thread), Future Homes and Future Buildings Standards 2025, British Standards (BS 9991, BS
+  9999, BS 8300, Eurocodes with UK National Annexes), London Plan 2021, NPPF 2024, LABC vs
+  Approved Inspector, EPC/SAP 10.2/SBEM, MEES, and BREEAM.
 ---
 
 # Country: United Kingdom
 
 Architectural code and regulatory reference for projects in England, Wales, Scotland, and Northern Ireland. Activate this skill on any UK reference, GBP currency, mention of "Approved Document"/"AD-B"/"Part L"/"Part M", BSI/British Standard, BS 8300, Building Safety Act, BSR, Grenfell-related cladding queries, NPPF, London Plan, EPC/SAP/SBEM, BREEAM, RIBA Plan of Work (UK-flavoured), MEES, or LABC.
+
+---
+
+## Full scope
+
+Complete scope statement, kept in full here when the frontmatter description was shortened to the 1024-character limit:
+
+United Kingdom architectural code and regulatory reference. Covers the Building Regulations 2010 for
+England with Approved Documents A through S (current 2010-2025 amendments), the parallel regimes for
+Wales (Welsh Approved Documents), Scotland (Building (Scotland) Regulations 2004 + Scottish
+Technical Handbooks), and Northern Ireland (Building Regulations (NI) 2012 + Technical Booklets).
+Post-Grenfell amendments to AD-B (2018-2023), the Building Safety Act 2022 with Building Safety
+Regulator (BSR) regime for Higher-Risk Buildings (HRB), Future Homes Standard 2025 and Future
+Buildings Standard 2025 (next AD-L), British Standards (BS 9991 fire safety dwellings, BS 9999 fire
+safety non-domestic, BS 8300-1/-2 accessibility, BS 5950 legacy steel, BS EN Eurocodes with UK
+National Annexes, BS 8500 concrete), London Plan 2021 + Mayor's Energy Hierarchy, Local Plans + NPPF
+(National Planning Policy Framework 2024), LABC vs Approved Inspector, EPC + SAP 10.2 + SBEM, Energy
+Act 2011 MEES minimum energy efficiency standards, BREEAM, and the post-Grenfell Building Safety
+regime including Gateway 1-3, Resident Engagement, Golden Thread, Safety Case Report, Mandatory
+Occurrence Reporting, and the Construction Products regulatory regime.
 
 ---
 
